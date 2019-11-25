@@ -1,2 +1,4 @@
-# Hackaton19-HS-P1
-Desafio Técnico - DEVOPS - Henrique Stanke Scandelari
+# Hackathon 2019 - Desafio Técnico - DevOps
+Por: Henrique Stanke Scandelari (stanke.contato@gmail.com)
+
+
