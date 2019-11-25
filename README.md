@@ -125,3 +125,14 @@ Devo ressaltar que minha falta de domínio quanto à essas linguagens me limitou
 Portanto, gostaria de deixar aqui meus sinceros pedidos de desculpas por não ter completado o desafio - mas me disponho a realizar outro desafio, tentar novamente ou até memso realizar alguma espécie de atividade em prol de poder ter a chance de apresentar minhas ideias, capacidades e competências perante aos jurados e envolvidos.
 ```
 
+# Referências
+
+https://osprogramadores.com/desafios/d06/ - Os Programadores - Blog de incentivo à programação - Desafio 06 retrata o mesmo desafio proposto pelo evento.
+
+https://github.com/OsProgramadores/op-desafios/tree/master/desafio-06 - Arvore de respostas de usuários do desafio 06 proposto pelo blog, com algumas respostas em diversas linguagens (Go, Rust, Scala e Potigol);
+
+Jogo “Scrabble” que consiste em encontrar palavras formando uma espécie de palavra-cruzada em base de um dicionário incluso – foi um dos jogos que me deu a ideia de indexar as palavras por um identificador comum, já que no jogo existe a possibilidade de jogar utilizando somente uma mesma palavra, e uma das técnicas é tentar formar palavras após organizar a palavra base de forma alfabética - https://en.wikipedia.org/wiki/Scrabble 
+
+A documentação abaixo se origina de um Assignment da Stanford University tal qual deu base para o desafio proposto - nessa documentação é demonstrado a resolução completa sobre o desafio, incluindo descrição, implementação, detalhes de estilo e um FAQ (Perguntas frequentes): 
+https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1176/assn/anagrams.html#implementation
+https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1176/assn/anagrams.html#
