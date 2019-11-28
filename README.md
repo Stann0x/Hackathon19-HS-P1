@@ -107,7 +107,7 @@ Parte 2:
   1.2) Remove-se os espaços (Ex: RUDE BOY -> RUDEBOY)
   1.3) Organiza em ordem alfabética (Ex: RUDEBOY -> BDEORUY)
   1.4) Define quantas letras tem o resultado (Ex: BDEORUY = 7)
-2) Utiliza o resultado da última operação (Ex: AAACDEEIMMNRR) para definir as letras e a quantidade inicial (Ex: 7) que serão utilizadas na busca
+2) Utiliza o resultado da última operação (Ex: BDEORUY) para definir as letras e a quantidade inicial (Ex: 7) que serão utilizadas na busca
 3) Busca-se no documento auxiliar ("dicionario.txt") todos os anagramas possíveis com as letras e quantidade inicial (Ex: Qtd: 7 - CREAMED) e então repete o processo subtraindo "1" da quantidade inicial até o mínimo de "2") (Ex: CAMERA, REMADE / 5 – DRAMA, DREAM, MADRE, CARED, CEDAR, RACED, CREAM, EDEMA / 4 – CARE, CAME, CARD, CRAM, DAME, DEER, DEAR, DEEM, MARE, MEAD, RACE, READ, REED / 3 ERE, RAD, RAM, RED, REC / 2 – AD, AM)
 4) Demonstra o resultado na tela
 ```
